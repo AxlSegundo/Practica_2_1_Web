@@ -1,0 +1,14 @@
+{
+  "name": "practica1_4",
+  "version": "1.0.0",
+  "description": "Practica 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Axel Jair Segundo Leon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
